@@ -1,6 +1,6 @@
 # Godot Learning Project
 
-![Project Status](https://img.shields.io/badge/status-completed-brightgreen) [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
+![Project Status](https://img.shields.io/badge/status-completed-brightgreen)
 
 This project is part of my learning experience with Godot, following Brackeys tutorials. It covers fundamental game development concepts such as scripting, physics, and UI design.
 
@@ -26,6 +26,3 @@ This project is **completed** and serves as a learning reference.
 This project was inspired by Brackeys' Godot tutorials:
 - [Brackeys - Godot Beginner](https://www.youtube.com/watch?v=LOhfqjmasi0)
 - [Brackeys - GDScript](https://www.youtube.com/watch?v=e1zJS31tr88)
-
-## License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
